@@ -1,4 +1,4 @@
-Inventory Web Server 
+## Inventory Web Server 
 
 The goal of this project is to develop a simple web server and interface where users can track inventory of a store, library, etc. Core computer science concepts utilized in this project include: classes & inheritance, HTML forms, HTTP communication with a local host, and CSV file data extraction.
 
